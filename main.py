@@ -15,4 +15,4 @@ while (a != n):
     else:
         break
     
-print(f"You guessed the number in {guess} attmepts")
+print(f"You guessed the number {n} in {guess} attmepts")
